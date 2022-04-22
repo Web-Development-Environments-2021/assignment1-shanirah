@@ -46,7 +46,6 @@ li a:hover {
 .prev, .next {
   cursor: pointer;
   position: absolute;
-  top: 120%;
   width: auto;
   margin-left: -40px;
   margin-right: 283px;
@@ -152,7 +151,7 @@ text5{
   font-style: italic;
   text-align: right;
   direction: rtl;
-  color: rgb(94, 24, 94);;
+  color: rgb(94, 24, 94);
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 /* page */
