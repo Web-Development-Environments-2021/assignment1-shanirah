@@ -290,3 +290,13 @@ textarea {
   margin-left: 50px;
   overflow: hidden; 
 }
+.box{
+position:relative;
+}
+.video-mask{
+  width: 390px;
+  height: 360px;
+  border-radius: 100px; 
+  position:absolute; right:-200px;
+  overflow: hidden; 
+}
